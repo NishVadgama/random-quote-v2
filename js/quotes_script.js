@@ -7,66 +7,66 @@ var quotes = [
   {
     quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
     source: "James Cameron",
-    //tag: "success"
+    tag: "success"
   },
   {
     quote: "The Way Get Started Is To Quit Talking And Begin Doing",
     source: "Walt Disney",
-    //tag: "success"
+    tag: "success"
   },
   {
     quote: "Don’t Let Yesterday Take Up Too Much Of Today.",
     source: "Will Rogers",
-    //tag: "success"
+    tag: "success"
   },
   {
     quote: "We Generate Fears While We Sit. We Overcome Them By Action",
     source: "Dr. Henry Link",
-    //tag: "success"
+    tag: "success"
   },
 
 //health quotes
   {
     quote: "Early to bed and early to rise, makes a man healthy wealthy and wise.",
     source: "Benjamin Franklin",
-    //tag: "health"
+    tag: "health"
   },
   {
     quote: "Let food be thy medicine and medicine be thy food.",
     source: "Hippocrates",
-    //tag: "health"
+    tag: "health"
   },
   {
     quote: "“If you can’t pronounce it, don’t eat it.",
     source: "Common Sense",
-    //tag: "health"
+    tag: "health"
   },
   {
     quote: "Health is like money, we never have a true idea of its value until we lose it.",
     source: "Josh Billings",
-    //tag: "health"
+    tag: "health"
   },
 
 //spirituality quotes
   {
     quote: "Life is really simple, but men insist on making it complicated.",
     source: "Confucius",
-    //tag: "spirituality"
+    tag: "spirituality"
   },
   {
-    quote: "All major religious traditions carry basically the same message, that is love, compassion and forgiveness ... the important thing is they should be part of our daily lives.",
+    quote: "My religion is very simple. My religion is kindness.",
     source: "Dalai Lama",
-    //tag: "spirituality"
+    tag: "spirituality"
   },
   {
     quote: "Knowing others is wisdom; knowing the self is enlightenment.",
     source: "Tao Te Ching",
-    //tag: "spirituality"
+    tag: "spirituality"
   },
   {
     quote: "When there is love in your heart, everything outside of you also becomes lovable.",
     source: "Veeresh",
-    //tag: "spirituality"
+    tag: "spirituality"
   }
 
 

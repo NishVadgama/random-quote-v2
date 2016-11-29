@@ -1,6 +1,8 @@
 body {
   /*text-align: center;*/
   background-color: #36b55c;
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/71/c0/70/71c070eae02efb0dad6afa3a6c88a70a.jpg");
+
   color: white;
   font-family: 'Playfair Display', serif;
 }
@@ -18,7 +20,7 @@ body {
   line-height: 1.1;
   position: relative;
   margin: 0;
-  } 
+  }
 .quote:before, .quote:after {
   font-size: 6rem;
   line-height: 2.5rem;
@@ -67,7 +69,8 @@ body {
   border-radius: 4px;
   border: 2px solid #fff;
   color: #fff;
-  background-color: #36b55c;
+  background-color: black;
+
   padding: 15px 0;
   transition: .5s ;
 }
